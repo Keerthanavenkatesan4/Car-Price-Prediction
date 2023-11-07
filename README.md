@@ -1,1 +1,4 @@
 # Car-Price-Prediction
+In the "Car Price Prediction using ML" project, I harnessed machine learning techniques to achieve precise car price predictions. Leveraging a Kaggle dataset, I conducted extensive exploratory data analysis (EDA), highlighting my strong data analysis skills in understanding the dataset's nuances and patterns.
+
+I built high-performing regression models, including XGBoost, Decision Tree, and Linear Regression. These models demonstrated advanced modeling proficiency by achieving a root mean square error (RMSE) of less than 0.01 and an R-Square (R2) value of 0.99, signifying exceptional predictive accuracy. This project showcases my ability to work with real-world data, conduct comprehensive EDA, and develop sophisticated machine learning models for practical applications in the automotive industry. It underscores my commitment to precision and excellence in data-driven predictions.
